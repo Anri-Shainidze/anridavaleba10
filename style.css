@@ -110,9 +110,6 @@ input[type="checkbox"].toggle:checked + label {
     color: blue;
 }
 
-#dropdown{
-    border:1px solid #7a5cfa
-}
 
 .buttons{
     display: flex;
